@@ -7,10 +7,10 @@
 
 ### Матеріали проекту
 
--[3D модель](https://sketchfab.com/3d-models/showerloop-c81902937d714d8a92df5faddf62d5df)
--Конструкція:
--Фото прототипу:
--[Відео огляд](https://www.youtube.com/watch?v=5W0fS3685UU&ab_channel=SergiiDumyk)
--Управління:
--Складові деталі:
-https://docs.google.com/spreadsheets/d/11vgMJ-I43rVWW3PeQkYlWljzOiANpQBYCyT218YO5DQ/edit#gid=0 
+<br/>-[3D модель](https://sketchfab.com/3d-models/showerloop-c81902937d714d8a92df5faddf62d5df)<br/>
+<br/>-Конструкція:<br/>
+<br/>-Фото прототипу:<br/>
+<br/>-[Відео огляд](https://www.youtube.com/watch?v=5W0fS3685UU&ab_channel=SergiiDumyk)<br/>
+<br/>-Управління:<br/>
+<br/>-Складові деталі:
+https://docs.google.com/spreadsheets/d/11vgMJ-I43rVWW3PeQkYlWljzOiANpQBYCyT218YO5DQ/edit#gid=0<br/>
