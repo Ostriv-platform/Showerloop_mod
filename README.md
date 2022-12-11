@@ -8,7 +8,7 @@
 Цей проект містить українську та англійську версії. Щоб перейти до української натисніть тут
 
 
-## Ліцензія 
+### Ліцензія 
 Цей проект є відкритим за умови некомерційного використання за ліцензією
 [Creative Commons - Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
@@ -21,7 +21,7 @@
 # Showerloop_modification
 Prototype based on existing open-source project, modified and adopted to Ukrainian context
 
-## License 
+### License 
 
 This design is offered to make for non-commercial use under the terms of the following license: 
 [Creative Commons - Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/).
