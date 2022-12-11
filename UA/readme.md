@@ -16,7 +16,7 @@
 - [Фото прототипу](https://github.com/Ostriv-platform/Showerloop_MOD/tree/main/UA/Photo)
 - [Відео огляд](https://www.youtube.com/watch?v=5W0fS3685UU&ab_channel=SergiiDumyk)
 - Управління:
-- [Складові деталі](https://github.com/Ostriv-platform/Showerloop_MOD/tree/main/UA/Detailes)
+- [Складові деталі (+кошторис)](https://github.com/Ostriv-platform/Showerloop_MOD/tree/main/UA/Detailes)
 
 ### Статус
 Статус станом на 1.12.2022 - Система фільтрації завершена та  очікує тестування після монтажу на локації. 
