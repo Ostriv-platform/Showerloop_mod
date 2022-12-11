@@ -1,7 +1,5 @@
 ![alt text](https://github.com/Ostriv-platform/Showerloop_MOD/blob/main/SHOWERLOOP%20general%20view.jpg?raw=true)
 
-### [Головна сторінка](https://github.com/Ostriv-platform/Showerloop_MOD)
-
 Дана імплементація ShowerLoop має наступні особливості:
  - повністю автоматичні режими: Loop та очистка, вмикаються за часом роботи основного насосу. При бажанні можна включити режим очистки вручну
  - багатоступеневий септик, як перший елемент очищення, дозволяє значно продовжити життя основних вугільних фільтрів
