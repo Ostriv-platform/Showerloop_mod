@@ -7,8 +7,8 @@
 
 ### Матеріали проекту
 
-<br/>-[3D модель](https://sketchfab.com/3d-models/showerloop-c81902937d714d8a92df5faddf62d5df)<br/>
-<br/>-Конструкція:<br/>
+<p/>-[3D модель](https://sketchfab.com/3d-models/showerloop-c81902937d714d8a92df5faddf62d5df)<p/>
+<p/>-Конструкція:<p/>
 <br/>-Фото прототипу:<br/>
 <br/>-[Відео огляд](https://www.youtube.com/watch?v=5W0fS3685UU&ab_channel=SergiiDumyk)<br/>
 <br/>-Управління:<br/>
