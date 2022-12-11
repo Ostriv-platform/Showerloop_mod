@@ -1,4 +1,4 @@
-![alt text](https://github.com/Ostriv-platform/Showerloop_MOD/blob/main/UA/Photo/photo_2022-11-01%2023.08.15.jpeg?raw=true)
+![alt text](https://github.com/Ostriv-platform/Showerloop_MOD/blob/main/SHOWERLOOP%20general%20view.jpg?raw=true)
 
 Дана імплементація ShowerLoop має наступні особливості:
  - повністю автоматичні режими: Loop та очистка, вмикаються за часом роботи основного насосу. При бажанні можна включити режим очистки вручну
