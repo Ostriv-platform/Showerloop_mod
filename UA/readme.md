@@ -11,7 +11,7 @@
 
 - [3D модель](https://sketchfab.com/3d-models/showerloop-c81902937d714d8a92df5faddf62d5df)
 - Конструкція:
-- Фото прототипу:
+- [Фото прототипу](https://github.com/Ostriv-platform/Showerloop_MOD/tree/main/UA/Photo)
 - [Відео огляд](https://www.youtube.com/watch?v=5W0fS3685UU&ab_channel=SergiiDumyk)
 - Управління:
 - Складові деталі:
