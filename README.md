@@ -1,7 +1,6 @@
 ![alt text](https://github.com/Ostriv-platform/Showerloop_MOD/blob/main/SHOWERLOOP%20general%20view.jpg?raw=true)
-<br/><br/>
-
 --- ENG below ---
+<br/><br/>
 # Зациклений душ
 Прототип на основі існуючого відкритого проекту **Showerloop**, допрацьований та адаптований до Українського контексту
 Ознайомитись з першоджерелом можна за посиланням: https://www.instructables.com/Showerloop
