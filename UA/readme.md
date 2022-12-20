@@ -19,6 +19,7 @@ Iмплементація ShowerLoop має наступні особливос�
 - [Фото прототипу](https://github.com/Ostriv-platform/Showerloop_mod/tree/main/UA/Photo)
 - [Відео огляд](https://www.youtube.com/watch?v=5W0fS3685UU&ab_channel=SergiiDumyk)
 - [Складові деталі](https://github.com/Ostriv-platform/Showerloop_mod/tree/main/UA/Calculation) (+кошторис)
+- [3D моделі](https://github.com/Ostriv-platform/Showerloop_mod/tree/main/UA/3D%20models) (завантажити)
 
 ### Статус
 Статус станом на 1.12.2022 - Система фільтрації завершена та  очікує тестування після монтажу на локації. 
