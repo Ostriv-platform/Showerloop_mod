@@ -16,10 +16,8 @@ Iмплементація ShowerLoop має наступні особливос�
 ### Матеріали проекту
 
 - [3D перегляд](https://sketchfab.com/3d-models/showerloop-c81902937d714d8a92df5faddf62d5df) (+схема)
-- Конструкція:
 - [Фото прототипу](https://github.com/Ostriv-platform/Showerloop_MOD/tree/main/UA/Photo)
 - [Відео огляд](https://www.youtube.com/watch?v=5W0fS3685UU&ab_channel=SergiiDumyk)
-- Управління:
 - [Складові деталі](https://github.com/Ostriv-platform/Showerloop_MOD/tree/main/UA/Detailes) (+кошторис)
 
 ### Статус
