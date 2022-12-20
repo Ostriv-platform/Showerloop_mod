@@ -7,7 +7,7 @@
 
 Прототип розроблено на основі існуючого відкритого проекту [**Showerloop**](https://www.instructables.com/Showerloop), допрацьований та адаптований до Українського контексту.
 
-Цей open source проект містить українську та англійську версії. Щоб перейти до української натисніть [**тут**](https://github.com/Ostriv-platform/Showerloop_MOD/tree/main/UA)
+Цей open source проект містить [українську](https://github.com/Ostriv-platform/Showerloop_MOD/tree/main/UA) та англійську версії.
 
 Прототип розлоблено спільно з організацією [001](https://001.fyi) у межах Lifesystems Laboratory за підтримки Tolocar. 
 Tolocar — програма, яка реалізується у співпраці з MitOst і підтримується урядом Німеччини через Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH.
