@@ -9,6 +9,9 @@
 
 Цей проект містить українську та англійську версії. Щоб перейти до української натисніть [**тут**](https://github.com/Ostriv-platform/Showerloop_MOD/tree/main/UA)
 
+Прототип створюється спільно з Creative Rural Hub у межах Lifesystems Laboratory за підтримки Tolocar. 
+Tolocar — програма, яка реалізується у співпраці з MitOst і підтримується урядом Німеччини через Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH.
+
 ### Команда розробників:
 Сергій Думик, Ігор Мостовий
 
@@ -16,11 +19,7 @@
 Цей проект є відкритим за умови некомерційного використання за ліцензією
 [Creative Commons - Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-Якщо ви хочете використати цей дизайн для не передбачених ліцензією випадків, будь ласка сконтактуйте з нами
-
-Прототип створюється спільно з Creative Rural Hub у межах Lifesystems Laboratory за підтримки Tolocar. 
-
-Tolocar — програма, яка реалізується у співпраці з MitOst і підтримується урядом Німеччини через Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH.
+Якщо ви хочете використати цей дизайн для не передбачених ліцензією випадків, будь ласка сконтактуйте з нами.
 
 <br/><br/>
 
