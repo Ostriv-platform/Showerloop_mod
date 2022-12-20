@@ -16,7 +16,7 @@ Management is maximally simplified and designed even for children. The boiler sh
 ### Project materials
 
 - [3D model](https://sketchfab.com/3d-models/showerloop-c81902937d714d8a92df5faddf62d5df) (+scheme)
-- [Prototype photos](https://github.com/Ostriv-platform/Showerloop_mod/tree/main/UA/Photo)
+- [Prototype photos](https://github.com/Ostriv-platform/Showerloop_mod/tree/main/ENG/Photo)
 - [Video overview](https://www.youtube.com/watch?v=5W0fS3685UU&ab_channel=SergiiDumyk)
 
 ### Status
