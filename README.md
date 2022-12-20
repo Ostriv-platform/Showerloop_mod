@@ -33,6 +33,10 @@ This open source project contains [Ukrainian](https://github.com/Ostriv-platform
 
 The prototype was developed together with the [001](https://001.fyi) organization within the Lifesystems Laboratory with the support of Tolocar. Tolocar is a program implemented in cooperation with MitOst and supported by the German government through Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH.
 
+
+### Development team:
+Serhiy Dumyk, Ihor Mostovy
+
 ### License 
 
 This design is offered to make for non-commercial use under the terms of the following license: 
