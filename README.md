@@ -18,6 +18,10 @@
 
 Якщо ви хочете використати цей дизайн для не передбачених ліцензією випадків, будь ласка сконтактуйте з нами
 
+Прототип створюється спільно з Creative Rural Hub у межах Lifesystems Laboratory за підтримки Tolocar. 
+
+Tolocar — програма, яка реалізується у співпраці з MitOst і підтримується урядом Німеччини через Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH.
+
 <br/><br/>
 
 # Showerloop_modification
