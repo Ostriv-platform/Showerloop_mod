@@ -1,4 +1,4 @@
-![alt text]([https://github.com/Ostriv-platform/Showerloop_mod/blob/main/UA/model_view.jpg](https://github.com/Ostriv-platform/Showerloop_mod/blob/main/SHOWERLOOP%20general%20view.jpg)?raw=true)
+![alt text](https://github.com/Ostriv-platform/Showerloop_mod/blob/main/SHOWERLOOP%20general%20view.jpg?raw=true)
 
 # Showerloop (modification)
 
