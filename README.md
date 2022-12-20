@@ -9,11 +9,11 @@
 
 Цей open source проект містить [українську](https://github.com/Ostriv-platform/Showerloop_MOD/tree/main/UA) та [англійську](https://github.com/Ostriv-platform/Showerloop_MOD/tree/main/ENG) версії.
 
-Прототип розлоблено спільно з організацією [001](https://001.fyi) у межах Lifesystems Laboratory за підтримки Tolocar. 
-Tolocar — програма, яка реалізується у співпраці з MitOst і підтримується урядом Німеччини через Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH.
-
 ### Команда розробників:
 Сергій Думик, Ігор Мостовий
+
+Прототип розлоблено спільно з організацією [001](https://001.fyi) у межах Lifesystems Laboratory за підтримки Tolocar. 
+Tolocar — програма, яка реалізується у співпраці з MitOst і підтримується урядом Німеччини через Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH.
 
 ### Ліцензія 
 Цей проект є відкритим за умови некомерційного використання за ліцензією
