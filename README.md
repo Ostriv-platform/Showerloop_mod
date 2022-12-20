@@ -31,7 +31,7 @@ Prototype based on existing open-source project [**Showerloop**](https://www.ins
 
 This open source project contains [Ukrainian](https://github.com/Ostriv-platform/Showerloop_MOD/tree/main/UA) and [English](https://github.com/Ostriv-platform/Showerloop_MOD/tree/main/ENG) versions.
 
-### Development team:
+### Project team:
 Serhiy Dumyk, Ihor Mostovy
 
 The prototype was developed together with the [001](https://001.fyi) organization within the Lifesystems Laboratory with the support of Tolocar. Tolocar is a program implemented in cooperation with MitOst and supported by the German government through Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH.
