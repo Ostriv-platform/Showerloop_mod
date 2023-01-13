@@ -15,6 +15,11 @@
 Прототип розроблено спільно з організацією [001](https://001.fyi) у межах Lifesystems Laboratory за підтримки Tolocar. 
 Tolocar — програма, яка реалізується у співпраці з MitOst і підтримується урядом Німеччини через Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH.
 
+#### Від розробників
+
+**Сергій Думик:**
+*Для мене цей проєкт - радикальна еко-технологія, я надихаюся саме такими. Економія 90% енергії й води, порівняно з традиційним душем - це про майбутнє, це - про автономне життя, яке можна досягти значно дешевше, ніж ми звикли вважати. ShowerLoop - це душова система Розумного будинку, вона може інтегруватися з системою контролю якості води й тому ідеально підходить для нашого проєкту, де наше основне джерело води - дощова вода. Ми продовжуватимо вдосконалювати цей проєкт, вважаємо його надзвичайно перспективним!*
+
 ### Ліцензія 
 Цей проект є відкритим за умови некомерційного використання за ліцензією
 [Creative Commons - Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/).
@@ -35,6 +40,11 @@ This open source project contains [Ukrainian](https://github.com/Ostriv-platform
 Sergii Dumyk, Ihor Mostovy
 
 The prototype was developed together with the [001](https://001.fyi) organization within the Lifesystems Laboratory with the support of Tolocar. Tolocar is a program implemented in cooperation with MitOst and supported by the German government through Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH.
+
+#### From the developers
+
+**Sergii Dumyk:**
+*For me, this project is a radical eco-technology, I am inspired by such things. Saving 90% of energy and water, compared to a traditional shower, is about the future, it is about autonomous life, which can be achieved much cheaper than we used to think. ShowerLoop is a Smart Home shower system, it can be integrated with a water quality control system and is therefore ideal for our project where our main source of water is rainwater. We will continue to improve this project, we consider it extremely promising!*
 
 ### License 
 
