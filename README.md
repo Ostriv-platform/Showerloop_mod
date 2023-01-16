@@ -52,3 +52,5 @@ This design is offered to make for non-commercial use under the terms of the fol
 [Creative Commons - Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 If you would like to use the design for anything not defined by this license please get in touch with our core team.
+
+![alt text](https://raw.githubusercontent.com/Ostriv-platform/Showerloop_mod/main/Photo/showerloop2.jpg)
